@@ -1,0 +1,10 @@
+{
+  "factorio.workspace.manageLibraryDataLinks": false,
+  "stylua.targetReleaseVersion": "latest",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pipe-circuit-connectors",
+  "version": "0.1.0",
+  "title": "Pipe Circuit Connectors / Circuit Connectable Pipes",
+  "author": "Maeximus",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1"
+  ],
+  "description": "Adds default circuit network connectors to pipe and pipe-to-ground prototypes that do not already define them."
+}
